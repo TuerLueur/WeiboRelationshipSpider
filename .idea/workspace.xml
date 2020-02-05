@@ -10,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/weibo_spider.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sina/spiders/weibo_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="171">
+              <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
               <folding>
                 <element signature="e#40#49#0" expanded="true" />
               </folding>
@@ -22,8 +22,17 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sina/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/utils.py">
+        <entry file="file://$PROJECT_DIR$/sina/spiders/utils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="703">
               <caret line="62" column="15" lean-forward="true" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
@@ -32,7 +41,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/pipelines.py">
+        <entry file="file://$PROJECT_DIR$/sina/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
               <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
@@ -54,7 +63,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/testNeo.py">
+        <entry file="file://$PROJECT_DIR$/sina/testNeo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="703">
               <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
@@ -63,7 +72,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/settings.py">
+        <entry file="file://$PROJECT_DIR$/sina/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" column="417" selection-start-line="12" selection-start-column="417" selection-end-line="12" selection-end-column="417" />
@@ -77,7 +86,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/items.py">
+        <entry file="file://$PROJECT_DIR$/sina/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
@@ -119,19 +128,20 @@
         <option value="$PROJECT_DIR$/sina/pipelines.py" />
         <option value="$PROJECT_DIR$/sina/items.py" />
         <option value="$PROJECT_DIR$/sina/spiders/weibo_spider.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/items.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/utils.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/settings.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/testNeo.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/pipelines.py" />
-        <option value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/weibo_spider.py" />
+        <option value="$PROJECT_DIR$/sina/items.py" />
+        <option value="$PROJECT_DIR$/sina/spiders/utils.py" />
+        <option value="$PROJECT_DIR$/sina/settings.py" />
+        <option value="$PROJECT_DIR$/sina/testNeo.py" />
+        <option value="$PROJECT_DIR$/sina/pipelines.py" />
+        <option value="$PROJECT_DIR$/sina/spiders/weibo_spider.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1091" />
+    <option name="x" value="441" />
+    <option name="y" value="12" />
+    <option name="width" value="957" />
+    <option name="height" value="966" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -153,12 +163,6 @@
               <item name="WeiboRelationshipSpider" type="462c0819:PsiDirectoryNode" />
               <item name="sina" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WeiboRelationshipSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeiboRelationshipSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="sina" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -167,8 +171,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WeiboRelationshipSpider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\file_using\py\py_code\WeiboRelationshipSpider\sina" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/testNeo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sina/testNeo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sina/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/weibo_spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sina/spiders/weibo_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,6 +388,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
@@ -391,12 +409,12 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.53067994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283582" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4995958" weight="0.3283582" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Mongo Explorer" visible="true" weight="0.16329831" />
+      <window_info anchor="right" id="Mongo Explorer" weight="0.16329831" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -421,6 +439,32 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://E:/software/Anaconda3/Lib/site-packages/scrapy/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -429,11 +473,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/__init__.py">
+    <entry file="file://$PROJECT_DIR$/sina/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sina/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/data_stracture.md">
+    <entry file="file://$PROJECT_DIR$/data_stracture.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -441,7 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -449,10 +493,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/__init__.py">
+    <entry file="file://$PROJECT_DIR$/sina/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/scrapy.cfg">
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
@@ -480,35 +524,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/items.py">
+    <entry file="file://$PROJECT_DIR$/sina/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/settings.py">
+    <entry file="file://$PROJECT_DIR$/sina/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="417" selection-start-line="12" selection-start-column="417" selection-end-line="12" selection-end-column="417" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/utils.py">
+    <entry file="file://$PROJECT_DIR$/sina/spiders/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="62" column="15" lean-forward="true" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/testNeo.py">
+    <entry file="file://$PROJECT_DIR$/sina/testNeo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/sina/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
@@ -518,13 +562,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WeiboRelationshipSpider/sina/spiders/weibo_spider.py">
+    <entry file="file://$PROJECT_DIR$/sina/spiders/weibo_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="171">
+          <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding>
             <element signature="e#40#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sina/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
